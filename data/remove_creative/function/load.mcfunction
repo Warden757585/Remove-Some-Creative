@@ -1,0 +1,1 @@
+tellraw @a {"text":"Remove Creative Datapack Loaded","color":"gold","bold":true}
